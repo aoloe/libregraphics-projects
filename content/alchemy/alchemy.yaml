@@ -1,0 +1,30 @@
+name: Alchemy
+category:
+    - painting
+    - vector drawing
+type:
+    - software
+stable version:
+active: false
+development version: 008
+last release: 7.1.2010
+license:
+    - GPL 3 or later
+download:
+    - platform: Mac OS X 10.4
+      url : http://al.chemy.org/files/Alchemy-008-Tiger.dmg
+    - platform: Mac OS X 10.5+
+      url : http://al.chemy.org/files/Alchemy-008.dmg
+    - platform: MS Windows
+      url : http://al.chemy.org/files/Alchemy-008.zip
+    - platform: Linux
+      url : http://al.chemy.org/files/Alchemy-008.tar.gz
+repository: http://svn.al.chemy.org/
+site: http://al.chemy.org/
+mailing list: http://al.chemy.org/list/
+forum: http://al.chemy.org/forum/
+language:
+    - Java
+tags:
+    - vector graphics
+    - sketching
