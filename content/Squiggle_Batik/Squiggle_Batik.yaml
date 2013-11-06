@@ -1,0 +1,25 @@
+name: Squiggle (Batik)
+category:
+    - 
+type:
+    - software
+latest release: 
+version:
+active: true
+license:
+    - 
+site: http://xmlgraphics.apache.org/batik/tools/browser.html
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository:
+mailing list:
+forum:
+programming language:
+    -
+tags:
+    -

@@ -1,0 +1,25 @@
+name: CMYKTool
+category:
+    - 
+type:
+    - software
+latest release: 25.01.2011
+version: 0.1.6-pre1
+active: false
+license:
+    - 
+site: http://www.blackfiveimaging.co.uk/index.php?article=02Software%2F05CMYKTool
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository:
+mailing list:
+forum:
+programming language:
+    -
+tags:
+    -

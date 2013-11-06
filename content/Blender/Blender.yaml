@@ -1,0 +1,25 @@
+name: Blender
+category:
+    - 
+type:
+    - software
+latest release: 
+version:
+active: true
+license:
+    - GPL
+site: http://blender.org
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository:
+mailing list:
+forum:
+programming language:
+    -
+tags:
+    -

@@ -1,0 +1,25 @@
+name: Drawpile
+category:
+    - 
+type:
+    - software
+latest release: 21.10.2008
+version: 0.6.0
+active: true
+license:
+    - 
+site: http://drawpile.sourceforge.net
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository: https://github.com/callaa/Drawpile
+mailing list:
+forum:
+programming language:
+    -
+tags:
+    -

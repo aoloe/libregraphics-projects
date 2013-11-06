@@ -1,0 +1,25 @@
+name: Bookbinder
+category:
+    - 
+type:
+    - software
+latest release: 
+version:
+active: true
+license:
+    - 
+site: http://www.quantumelephant.co.uk/bookbinder/bookbinder.html
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository:
+mailing list:
+forum:
+programming language:
+    -
+tags:
+    -

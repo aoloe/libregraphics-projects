@@ -1,0 +1,25 @@
+name: Create
+category:
+    - 
+type:
+    - community
+stable version:
+active: true
+last release: 
+license:
+    - 
+site: http://create.freedesktop.org/
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository:
+mailing list:
+forum:
+programming language:
+    -
+tags:
+    -

@@ -1,0 +1,25 @@
+name: LensFun
+category:
+    - 
+type:
+    - software
+latest release: 
+version:
+active: true
+license:
+    - 
+site: http://lensfun.berlios.de/
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository:
+mailing list:
+forum:
+programming language:
+    -
+tags:
+    -

@@ -1,0 +1,25 @@
+name: Uniconvertor
+category:
+    - 
+type:
+    - software
+latest release: 
+version:
+active: true
+license:
+    - 
+site: http://sk1project.org/modules.php?name=Products&amp;product=uniconvertor
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository:
+mailing list:
+forum:
+programming language:
+    -
+tags:
+    -

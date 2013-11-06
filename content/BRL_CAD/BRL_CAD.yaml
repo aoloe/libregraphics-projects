@@ -1,0 +1,25 @@
+name: BRL-CAD
+category:
+    - 
+type:
+    - software
+latest release: 
+version:
+active: true
+license:
+    - 
+site: http://brlcad.org/
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository:
+mailing list:
+forum:
+programming language:
+    -
+tags:
+    -

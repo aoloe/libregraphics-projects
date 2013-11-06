@@ -1,0 +1,27 @@
+name: Phatch
+category:
+    - 
+type:
+    - software
+latest release: 
+version: 0.2.7
+active: true
+license:
+    - 
+site: http://photobatch.stani.be/
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository:
+mailing list:
+forum:
+programming language:
+    -
+tags:
+    - batch
+    - photo
+    - bitmap editor

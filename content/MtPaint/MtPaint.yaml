@@ -1,0 +1,25 @@
+name: MtPaint
+category:
+    - 
+type:
+    - software
+latest release: 
+version:
+active: true
+license:
+    -
+site: http://mtpaint.sourceforge.net/
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository: https://github.com/wjaguar/mtPaint
+mailing list:
+forum:
+programming language:
+    -
+tags:
+    -

@@ -1,0 +1,26 @@
+name: Passepartout
+category:
+    - 
+type:
+    - software
+stable version:
+active: false
+version: 0.7.0
+latest release: 5.8.2007
+license:
+    - 
+site: http://www.stacken.kth.se/project/pptout/
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository:
+mailing list:
+forum:
+programming language:
+    -
+tags:
+    -

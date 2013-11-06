@@ -1,0 +1,3 @@
+# OpenArtist
+
+OpenArtist is a linux distrubution for creative people. It focuses on and features all flavours of digital arts : 2d, 3d, audio, video, vjing, hardware interfacing (arduino, robotics, reactable..). OpenArtist is an ubuntu-based distribution which features many programs which are not available in other distributions. The one thing which sets openArtist apart from other distributions is its universal approach. It has its own, selfexplaining menu- system, comes with its own documentation, has builtIn sharing, and the preconfiguration of the system exeeds any comparable distriubtions.

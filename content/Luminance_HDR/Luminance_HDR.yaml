@@ -1,0 +1,25 @@
+name: Luminance HDR
+category:
+    - 
+type:
+    - software
+version: 2.3.1
+active: true
+latest release: 7.3.2013
+license:
+    - 
+site: http://qtpfsgui.sourceforge.net
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository:
+mailing list:
+forum:
+programming language:
+    -
+tags:
+    -
