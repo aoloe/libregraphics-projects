@@ -1,0 +1,26 @@
+name: Zebratrace
+category:
+    - 
+type:
+    - software
+latest release: 2013
+version:
+active: true
+license:
+    - GPL 3.0
+site: http://maxim-s-barabash.github.io/ZebraTrace/
+download:
+    - platform: Linux
+      url :
+    - platform: http://maxim-s-barabash.github.com/ZebraTrace/download/ZebraTRACE-0.5-win32.msi
+      url :
+    - platform: Mac OS X
+      url :
+repository: https://github.com/maxim-s-barabash/ZebraTrace
+mailing list:
+forum:
+programming language:
+    - Python
+    - Qt4
+tags:
+    -
