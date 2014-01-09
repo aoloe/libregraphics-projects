@@ -1,0 +1,22 @@
+name: Entangle
+category:
+    - 
+type:
+    - software
+latest release:
+version: 0.5.4
+active: true
+license:
+    - GNU GPL v3+
+site: http://entangle-photo.org/
+download:
+    - platform: Linux
+      url : 
+repository: http://gitorious.org/entangle/entangle
+mailing list:
+forum:
+programming language:
+    - C
+    - GTK+
+tags:
+    -

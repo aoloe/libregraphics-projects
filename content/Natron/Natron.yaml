@@ -1,0 +1,25 @@
+name: Natron
+category:
+    - 
+type:
+    - software
+latest release:
+version:
+active: true
+license:
+    - Mozilla Public License v2.0 (MPL)
+site: https://natron.inria.fr/
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository: https://github.com/MrKepzie/Natron
+mailing list:
+forum:
+programming language:
+    -
+tags:
+    -
