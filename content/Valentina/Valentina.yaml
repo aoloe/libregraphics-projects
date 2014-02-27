@@ -1,0 +1,26 @@
+name: Valentina
+category:
+    - 
+type:
+    - software
+latest release: 2014
+version:
+active: true
+license: GPL 3.0+
+    - 
+site: http://www.valentina-project.org
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url : https://bitbucket.org/dismine/valentina/downloads
+    - platform: Mac OS X
+      url : https://bitbucket.org/dismine/valentina/downloads
+repository: https://bitbucket.org/dismine/valentina
+mailing list:
+forum:
+programming language:
+    - C++
+    - Qt5
+tags:
+    - Patternmaking
