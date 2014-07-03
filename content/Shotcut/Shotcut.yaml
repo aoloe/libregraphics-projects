@@ -1,14 +1,14 @@
-name: Kino
+name: Shotcut
 category:
     - 
 type:
     - software
-latest release: 
-version:
-active: false
+latest release: 2014-07-01 
+version: 10.07
+active: true
 license:
     - 
-site: http://kinodv.org/
+site: http://www.shotcutapp.com
 download:
     - platform: Linux
       url :
