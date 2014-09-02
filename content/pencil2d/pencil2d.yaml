@@ -1,0 +1,26 @@
+name: Pencil2D
+category:
+- animation
+- 2d
+type:
+- software
+latest release:
+version:
+active: true
+license:
+- GPL 2
+site: www.pencil2d.org/
+download:
+- platform: Linux
+url :
+- platform: MS Windows
+url :
+- platform: Mac OS X
+url :
+repository:
+mailing list:
+forum:
+programming language:
+-
+tags:
+-
