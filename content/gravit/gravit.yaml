@@ -1,0 +1,25 @@
+name: Gravit
+category:
+- vector graphics
+type:
+- software
+latest release:
+version:
+active: true
+license:
+- GPL 3
+site: http://gravit.io
+download:
+- platform: Linux
+url :
+- platform: MS Windows
+url :
+- platform: Mac OS X
+url :
+repository:
+mailing list:
+forum:
+programming language:
+- javascript
+tags:
+-
