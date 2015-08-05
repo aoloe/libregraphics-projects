@@ -8,7 +8,7 @@ version: 10.07
 active: true
 license:
     - 
-site: http://www.shotcutapp.com
+site: http://www.shotcut.org
 download:
     - platform: Linux
       url :
@@ -16,7 +16,7 @@ download:
       url :
     - platform: Mac OS X
       url :
-repository:
+repository: https://github.com/mltframework/shotcut
 mailing list:
 forum:
 programming language:
