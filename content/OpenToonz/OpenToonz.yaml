@@ -1,0 +1,23 @@
+name: OpenToonz
+category:
+    - 
+type:
+    - software
+latest release: 
+version:
+active: true
+license:
+    - New BSD License
+site: https://opentoonz.github.io/e/
+download:
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository: https://github.com/opentoonz/opentoonz
+mailing list:
+forum:
+programming language:
+    - c++
+tags:
+    - 2D animation
