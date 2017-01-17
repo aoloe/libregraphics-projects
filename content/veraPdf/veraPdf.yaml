@@ -1,0 +1,26 @@
+name: veraPDF
+category:
+    - 
+type:
+    - software
+latest release: 
+version: 
+active: true
+license:
+    - GPL 3+
+    - MPL 2+
+site: http: http://verapdf.org/home/
+download:
+    - platform: Linux
+      url :
+    - platform: MS Windows
+      url :
+    - platform: Mac OS X
+      url :
+repository:
+mailing list:
+forum:
+programming language:
+tags:
+    - pdf
+    - validation
