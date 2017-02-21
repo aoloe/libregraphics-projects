@@ -1,0 +1,25 @@
+name: Solvespace
+category:
+    - 
+type:
+    - software
+latest release: 2016-12-23
+version: 2.3
+active: true
+license:
+    - GPL 3+
+site: http://solvespace.com
+download:
+    - platform: Linux
+      url : http://solvespace.com/download.pl
+    - platform: MS Windows
+      url : http://solvespace.com/download.pl
+    - platform: Mac OS X
+      url : http://solvespace.com/download.pl
+repository: https://github.com/solvespace/solvespace
+mailing list:
+forum:
+programming language:
+tags:
+    - cad
+    - 3d
